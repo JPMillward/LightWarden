@@ -1,0 +1,3 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\LightWarden\Source\LightWarden\InteractionInterface.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\InteractionInterface.generated.h

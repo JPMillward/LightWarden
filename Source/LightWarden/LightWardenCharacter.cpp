@@ -171,8 +171,10 @@ void ALightWardenCharacter::TraceFromPlayer()
 	FRotator Rotation;
 	FHitResult HitResult;
 	
-	GetController()->GetPlayerViewPoint(OUT Location, OUT Rotation);
-
+	if (GetController())
+	{
+		GetController()->GetPlayerViewPoint(OUT Location, OUT Rotation);
+	}
 	FVector LineTrace = Location + (Rotation.Vector() * PlayerReach);
 
 	FCollisionQueryParams TraceQuery;

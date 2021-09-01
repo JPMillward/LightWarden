@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LightWarden.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F8BB91DF-F00D-473F-B30E-D10A765C6C32}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LightWarden.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LightWardenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{69D96825-8E21-492C-BC0C-E8A32F173160}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LightWarden">
+      <UniqueIdentifier>{3A6931FA-85BF-4799-AFDD-5DA31475B559}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LightWarden\InteractionBase.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\InteractionBase.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\InteractionInterface.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\InteractionInterface.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\LightWarden\LightWarden.Build.cs">
+      <Filter>Source\LightWarden</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LightWarden\LightWarden.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\LightWarden.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\LightWardenCharacter.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\LightWardenCharacter.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\LightWardenGameMode.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\LightWardenGameMode.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\OrbLight.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\OrbLight.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\OrbPedestal.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\OrbPedestal.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LightWarden\WardenEnums.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightWarden\WardenPlatformComponent.cpp">
+      <Filter>Source\LightWarden</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightWarden\WardenPlatformComponent.h">
+      <Filter>Source\LightWarden</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

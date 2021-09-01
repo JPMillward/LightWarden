@@ -1,0 +1,2 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\LightWarden\Source\LightWarden\LightWarden.h

@@ -1,0 +1,3 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

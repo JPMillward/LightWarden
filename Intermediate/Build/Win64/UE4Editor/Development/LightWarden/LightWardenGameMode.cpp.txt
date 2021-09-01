@@ -1,0 +1,20 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\LightWarden\Source\LightWarden\LightWardenGameMode.h
+I:\Games\LightWarden\Source\LightWarden\WardenEnums.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\LightWardenGameMode.generated.h
+I:\Games\LightWarden\Source\LightWarden\LightWardenCharacter.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\LightWardenCharacter.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h

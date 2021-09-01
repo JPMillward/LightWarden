@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LightWarden",
+			"Path": "I:\\Games\\LightWarden\\Source\\LightWarden.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LightWardenEditor",
+			"Path": "I:\\Games\\LightWarden\\Source\\LightWardenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\LightWarden\Source\LightWarden\LightWardenCharacter.h
+I:\Games\LightWarden\Source\LightWarden\WardenEnums.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\LightWardenCharacter.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+I:\Games\LightWarden\Source\LightWarden\WardenPlatformComponent.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\WardenPlatformComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+I:\Games\LightWarden\Source\LightWarden\InteractionInterface.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\InteractionInterface.generated.h
+I:\Games\LightWarden\Source\LightWarden\LightWardenGameMode.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\LightWardenGameMode.generated.h
+I:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+I:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h

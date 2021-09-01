@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"I:\\Games\\LightWarden\\Source\\LightWarden\\LightWarden.Build.cs",
+		"I:\\Games\\LightWarden\\Source\\LightWarden.Target.cs",
+		"I:\\Games\\LightWarden\\Source\\LightWardenEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

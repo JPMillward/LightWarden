@@ -1,0 +1,4 @@
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Development\LightWarden\Definitions.LightWarden.h
+I:\Games\LightWarden\Source\LightWarden\WardenPlatformComponent.h
+I:\Games\LightWarden\Source\LightWarden\WardenEnums.h
+I:\Games\LightWarden\Intermediate\Build\Win64\UE4Editor\Inc\LightWarden\WardenPlatformComponent.generated.h
